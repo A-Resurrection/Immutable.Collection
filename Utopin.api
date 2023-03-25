@@ -1,0 +1,22 @@
+/ Indexed DBUint16bit -obj. Application.helper_fields.
+Child_indexThings which sound like SOUNDEX %mdna%
+      within Application-Helper module,
+            (name, f, association)
+            i new object = F.object: send
+                  (Vendor.ORDERBY#
+                  InvoiceID# SELECTcustomerIDFROM.
+                  DeliveriesScheduleTable.
+                  RunComixAlgo.VendorsvsCust
+                  Src=https://api.utopin.box.com/track/V2like?
+                  ID=81f7a975-16c7-45ed-b8e8-83ed-837ed07f6bf1&url=
+                  ID=new_ojbect_rd.fields
+                  =F.fields_for(association, new-object, child_index:id
+                  Do [builder]
+                  Render (association.to_s.singularizedWHILE.commut)
+                        "_fields," f:builder)
+                              End.
+                            Link_to(name, '#', class:
+                                  "Add_fields",
+                                  Data: {rd:id, fields:
+                                         Fields, gsub
+                                         ("/n"; "secret".)link}secret spec}):
